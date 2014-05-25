@@ -5,6 +5,11 @@ import javax.swing.UnsupportedLookAndFeelException;
 
 import emv.jnlp.ui.Window;
 
+/**
+ * <pre>Some change to test the commit and compare</pre>
+ * @author MIKO
+ *
+ */
 public class JavaWebStartApplication {
 
 	private static void createGUI() {
