@@ -13,6 +13,11 @@ import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.WindowConstants;
 
+/**
+ * 
+ * @author MIKO
+ *
+ */
 public class Window extends JFrame {
 
 	private static final long serialVersionUID = 373230609396784388L;
