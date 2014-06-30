@@ -7,6 +7,7 @@ import emv.jnlp.ui.Window;
 
 /**
  * <pre>Some change to test the commit and compare</pre>
+ * 
  * @author MIKO
  *
  */
